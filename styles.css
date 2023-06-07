@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/Joe_Lopes.jpg);
+  --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(../projeto/assets/avatar-light.jpg);
+  --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(236, 226, 226, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -59,11 +59,8 @@ body {
 }
 
 #profile img {
-  width: 134px;
-  height: 145px;
-  border-radius: 50%;
+  width: 112px;
 }
-
 
 #profile p {
   font-weight: 500px;
@@ -176,7 +173,7 @@ footer {
   }
 
   .light {
-    --bg-url: url(./assets/bgdesktop-light.jpg);
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
 
