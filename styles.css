@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/Joel_Lopes_light.jpg);
+  --bg-url: url(../projeto/assets/avatar-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(236, 226, 226, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -63,6 +63,7 @@ body {
   height: 145px;
   border-radius: 50%;
 }
+
 
 #profile p {
   font-weight: 500px;
