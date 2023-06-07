@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(https://photos.google.com/u/1/share/AF1QipNQURn7_NV8ApeEjrkV1FGP8SAW1ADQ_t50n6LYQkgTKR_JNX-SjEOjMsWYCBu6Kg/photo/AF1QipN2wDy7Ez6UwQ_vcP0g60Hwus493sBnbXd10ABF?key=amlhanR6aU81aVBDVTVCYnktUk1ZRkl2b0xrUlln);
+  --bg-url: url(./assets/Joe_Lopes.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(https://photos.google.com/u/1/share/AF1QipNQURn7_NV8ApeEjrkV1FGP8SAW1ADQ_t50n6LYQkgTKR_JNX-SjEOjMsWYCBu6Kg/photo/AF1QipPXsy-IqK1Q-LMTbt0A1CIUaR9_acyzOtZsjHU9?key=amlhanR6aU81aVBDVTVCYnktUk1ZRkl2b0xrUlln);
+  --bg-url: url(./assets/Joel_Lopes_light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(236, 226, 226, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
